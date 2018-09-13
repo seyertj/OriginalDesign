@@ -6,11 +6,16 @@ In this assignment you will create a design of your own choosing. You may find t
 `void draw()`  
 and at least two of your own. Scroll down to see links to samples of other students submissions for this assignment. Have fun and be creative! Your design doesn't have to look like anyone else's.
 
-Posting your finished program to GitHub
-=======================================
-When you are finished, follow the instructions for either the [basic](https://github.com/APCSLowell/SampleAssignmentSimple) or [advanced workflow](https://github.com/APCSLowell/SampleAssignment) to post your program to GitHub. Start by logging into GitHub and forking [this](https://github.com/LowellSampleClass/OriginalDesign) repository.  
-
-Now, replace the Java code in the `OriginalDesign.pde` file with the code for your own design. You will also need to modify `index.html` to personalize the title, headline and footer. Once you are happy with your program, `add`, `commit` and `push` your work to GitHub. Submit the link to your finished program to google classroom.
+Suggested steps to complete this assignment
+===============
+1. Start by logging into GitHub and forking [this](https://github.com/LowellSampleClass/OriginalDesign) repository just like you did for the [Sample Assignment](https://github.com/APCSLowell/SampleAssignment)  
+2. Clone down the repository, again just like you did for the [Sample Assignment](https://github.com/APCSLowell/SampleAssignment)
+3. Start the Sublime program and choose *File | Open Folder*
+4. Modify `index.html` to personalize the title, headline and footer and save your changes by choosing *File | Save*
+5. Replace the Java code in the `OriginalDesign.pde` file with the code for your own design.
+6. `add`, `commit` and `push` your work to GitHub just like you did for the [Sample Assignment](https://github.com/APCSLowell/SampleAssignment) to post your program to GitHub.
+7. Publish your website in the repository settings, choose *master branch | save*. This will create a URL "link" to your website.
+8. Submit your link to google classroom.
 
 Samples of Student Work
 -----------------------
