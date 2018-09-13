@@ -22,6 +22,7 @@ Samples of Student Work
 [Andy](https://anli28.github.io/OriginalDesign/)   
 [Michael](https://michaelapcs.github.io/OriginalDesign/)   
 [Andrew](https://abootatoo.github.io/OriginalDesign/)   
+[Lily](https://cailcali.github.io/OriginalDesign/)   
 [Josh](https://jowong1.github.io/OriginalDesign/)   
 [Evan](https://evanmchan.github.io/OriginalDesign/)   
 [Raymond](https://raysandvectors.github.io/OriginalDesign/)   
