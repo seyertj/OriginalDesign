@@ -10,7 +10,7 @@ Suggested steps to complete this assignment
 ===============
 1. Start by logging into GitHub and forking [this](https://github.com/LowellSampleClass/OriginalDesign) repository just like you did for the [Sample Assignment](https://github.com/APCSLowell/SampleAssignment)  
 2. Clone down the repository, again just like you did for the [Sample Assignment](https://github.com/APCSLowell/SampleAssignment)
-3. Start the Sublime program and choose *File | Open Folder*
+3. Start the Sublime program and choose *File | Open Folder* then browse to and open the `OriginalDesign` folder.
 4. Modify `index.html` to personalize the title, headline and footer and save your changes by choosing *File | Save*
 5. Replace the Java code in the `OriginalDesign.pde` file with the code for your own design.
 6. `add`, `commit` and `push` your work to GitHub just like you did for the [Sample Assignment](https://github.com/APCSLowell/SampleAssignment) to post your program to GitHub.
