@@ -14,8 +14,8 @@ Suggested steps to complete this assignment
 4. Modify `index.html` to personalize the title, headline and footer and save your changes by choosing *File | Save*
 5. Replace the Java code in the `OriginalDesign.pde` file with the code for your own design. Run your program in Sublime by choosing *Tools | Build*
 6. `add`, `commit` and `push` your work to GitHub just like you did for the [Sample Assignment](https://github.com/APCSLowell/SampleAssignment) to post your program to GitHub.
-7. Publish your website in the repository settings, choose *master branch | save*. This will create a URL "link" to your website.
-8. Submit your link to google classroom.
+7. Publish your website by choosing *master branch | save* in the *GitHub Pages* section of *Settings*. This will create a URL "link" to your website.
+8. Submit your URL link to google classroom.
 
 Samples of Student Work
 -----------------------
