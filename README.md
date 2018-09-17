@@ -41,6 +41,7 @@ Samples of Student Work
 [Su](https://suzin1.github.io/OriginalDesign/)   
 [Esme](https://esmedpk.github.io/OriginalDesign/)   
 [Albert](https://albertgiang.github.io/OriginalDesign/)   
+[Brendan](https://brchao.github.io/OriginalDesign/)   
 [Raymond](https://luzray56.github.io/OriginalDesign/)   
 [Susan](https://susanm87.github.io/OriginalDesign/)   
 [Ian](https://iatang21.github.io/OriginalDesign/)    
