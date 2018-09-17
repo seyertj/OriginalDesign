@@ -19,6 +19,18 @@ Suggested steps to complete this assignment
 
 Samples of Student Work
 -----------------------
+[Kristi](https://kristilee1171.github.io/OriginalDesign/)   
+[Diego](https://diegoleong.github.io/OriginalDesign/)   
+[Brandon](https://btlsandwich.github.io/OriginalDesign/)   
+[Willis](https://willisli.github.io/OriginalDesign/)   
+[Vicky](https://vickyguan3.github.io/OriginalDesign/)   
+[Fred](https://fredxhua.github.io/OriginalDesign/)   
+[Eunice](https://euborres.github.io/OriginalDesign/)   
+[Alexis](https://alexisapcs.github.io/OriginalDesign/)   
+[Jessie](https://envylyst.github.io/OriginalDesign/)   
+[Timmy](https://tidang.github.io/OriginalDesign/)   
+[Daniel](https://danieldoan101.github.io/OriginalDesign/)   
+[Alan](https://alchena.github.io/OriginalDesign/)   
 [Jackson](https://jacksonjude.github.io/OriginalDesign/)   
 [Gee](https://trtran8.github.io/OriginalDesign/)   
 [Omar](https://omaralkharji.github.io/OriginalDesign/)   
